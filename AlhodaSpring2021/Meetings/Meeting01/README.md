@@ -2,7 +2,7 @@
 
 ## Meeting 01 | Basics of C++, CodeBlocks, Syntax and Hello World!
 
-Summary Video : [Meeting 01 Summary](https://www.youtube.com/watch?v=tR3oOEh5XN4)
+Youtube Video : [Meeting 01 Summary](https://www.youtube.com/watch?v=tR3oOEh5XN4)
 
 ### Supplementary Material
 
