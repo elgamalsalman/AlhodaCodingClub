@@ -1,4 +1,4 @@
-[<- Back to Front Page](./../)
+[<- Back to Front Page](/)
 
 # Alhoda Spring 2021
 
