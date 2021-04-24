@@ -4,7 +4,7 @@
 
 Youtube Video : [Meeting 07 Summary](https://www.youtube.com/watch?v=jxBqrgfijbM)
 
-### Exercises on URI Online Judge
+### Exercises on [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
 
 ##### Problems
 
